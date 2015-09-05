@@ -1,6 +1,7 @@
 name: ijon at c-base
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.06552
+typography_spectrum: 0.03448
 cta:
   domain: null
   bucket: null
@@ -14,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
+  brandColors:
+    - '#151c22'
+    - '#202d35'
+    - '#000000'
+    - '#323d3f'
+    - '#40545f'
+  brandStrength: 0.6875
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
