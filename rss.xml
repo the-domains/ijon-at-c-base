@@ -5,7 +5,7 @@
         <description><![CDATA[ijon at c-base]]></description>
         <link>https://thegrid.ai/ijon-at-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Sep 2015 10:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2015 10:47:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ijon-at-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Building an Ingress Table with Flowhub]]></title>
@@ -20,6 +20,13 @@
             <link>https://thegrid.ai/ijon-at-c-base/73f581e3-8a72-452d-8478-2b490ac18d51/index.html</link>
             <guid isPermaLink="false">73f581e3-8a72-452d-8478-2b490ac18d51</guid>
             <pubDate>Sat, 05 Sep 2015 09:08:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CCCamp 2011 3D-Doku]]></title>
+            <description><![CDATA[<article><h1>CCCamp 2011 3D-Doku</h1><p>Das Caos Communication Camps vom August 2011 in Finofurt. Golle vom 3D-Stammtisch war mit seiner stereoskopischen Kamera unterwegs und komponierte daraus eine mit elektronischer Musik von Brain unterlegte visuelle Reise.</p><img src="https://i.ytimg.com/vi/t7Lf7ANX3ho/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=t7Lf7ANX3ho&amp;feature=youtu.be&amp;a</link>
+            <guid isPermaLink="false">cb892b55-4d63-48dd-bff9-e1ad24ec8635</guid>
+            <pubDate>Sun, 06 Sep 2015 10:47:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/460a49ee-2e1d-4ff9-bbb2-c24b905c307c.jpg">]]></description>
             <link>https://thegrid.ai/ijon-at-c-base/63f1e813-54bc-4c20-9d41-347e818ef9b7/index.html</link>
             <guid isPermaLink="false">63f1e813-54bc-4c20-9d41-347e818ef9b7</guid>
-            <pubDate>Sat, 05 Sep 2015 09:08:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/197add71-abc2-4927-983e-bdca1ae9b26b.jpg">]]></description>
-            <link>https://thegrid.ai/ijon-at-c-base/4eea2c5c-d467-485b-9b19-9ee2f4b6beb9/index.html</link>
-            <guid isPermaLink="false">4eea2c5c-d467-485b-9b19-9ee2f4b6beb9</guid>
             <pubDate>Sat, 05 Sep 2015 09:08:10 GMT</pubDate>
         </item>
     </channel>
