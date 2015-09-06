@@ -5,7 +5,7 @@
         <description><![CDATA[ijon at c-base]]></description>
         <link>https://thegrid.ai/ijon-at-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Sep 2015 11:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2015 11:29:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ijon-at-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Building an Ingress Table with Flowhub]]></title>
@@ -20,6 +20,13 @@
             <link>https://thegrid.ai/ijon-at-c-base/73f581e3-8a72-452d-8478-2b490ac18d51/index.html</link>
             <guid isPermaLink="false">73f581e3-8a72-452d-8478-2b490ac18d51</guid>
             <pubDate>Sat, 05 Sep 2015 09:08:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nerdarea]]></title>
+            <description><![CDATA[<article><h1>Nerdarea</h1><p>This is the nerdarea, where we hang out and do stuff with or without Computers</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f184cd7d-7da0-4b7b-83cb-51e5cd48fb7b.JPG"></article>]]></description>
+            <link>https://thegrid.ai/ijon-at-c-base/c81c3067-e869-46fc-83de-322427b88598/index.html</link>
+            <guid isPermaLink="false">c81c3067-e869-46fc-83de-322427b88598</guid>
+            <pubDate>Sun, 06 Sep 2015 11:28:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[c-lab desk]]></title>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/watch?v=t7Lf7ANX3ho&amp;feature=youtu.be&amp;a</link>
             <guid isPermaLink="false">cb892b55-4d63-48dd-bff9-e1ad24ec8635</guid>
             <pubDate>Sun, 06 Sep 2015 10:47:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d103b656-a713-4f43-a649-83b62184610a.jpg">]]></description>
-            <link>https://thegrid.ai/ijon-at-c-base/292a5261-e927-4c71-a8da-6e8e701abde4/index.html</link>
-            <guid isPermaLink="false">292a5261-e927-4c71-a8da-6e8e701abde4</guid>
-            <pubDate>Sat, 05 Sep 2015 09:08:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
