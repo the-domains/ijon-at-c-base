@@ -5,7 +5,7 @@
         <description><![CDATA[ijon at c-base]]></description>
         <link>https://thegrid.ai/ijon-at-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Sep 2015 11:29:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2015 11:29:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ijon-at-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Building an Ingress Table with Flowhub]]></title>
@@ -20,6 +20,13 @@
             <link>https://thegrid.ai/ijon-at-c-base/73f581e3-8a72-452d-8478-2b490ac18d51/index.html</link>
             <guid isPermaLink="false">73f581e3-8a72-452d-8478-2b490ac18d51</guid>
             <pubDate>Sat, 05 Sep 2015 09:08:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analog Archive]]></title>
+            <description><![CDATA[<article><h1>Analog Archive</h1><p>This is our analog archive, containing physical documents and artefacts of the last 20years of reconstruction</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb8c4564-6e88-4fcf-8b80-397e77c6da12.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ijon-at-c-base/5b6e26a3-f4db-414a-af76-664c8532a741/index.html</link>
+            <guid isPermaLink="false">5b6e26a3-f4db-414a-af76-664c8532a741</guid>
+            <pubDate>Sun, 06 Sep 2015 11:28:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nerdarea]]></title>
@@ -69,13 +76,6 @@
             <link>http://c-base.org/</link>
             <guid isPermaLink="false">64354e22-0f11-4af9-83e8-5986a3597799</guid>
             <pubDate>Sun, 06 Sep 2015 10:47:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CCCamp 2011 3D-Doku]]></title>
-            <description><![CDATA[<article><h1>CCCamp 2011 3D-Doku</h1><p>Das Caos Communication Camps vom August 2011 in Finofurt. Golle vom 3D-Stammtisch war mit seiner stereoskopischen Kamera unterwegs und komponierte daraus eine mit elektronischer Musik von Brain unterlegte visuelle Reise.</p><img src="https://i.ytimg.com/vi/t7Lf7ANX3ho/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=t7Lf7ANX3ho&amp;feature=youtu.be&amp;a</link>
-            <guid isPermaLink="false">cb892b55-4d63-48dd-bff9-e1ad24ec8635</guid>
-            <pubDate>Sun, 06 Sep 2015 10:47:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
