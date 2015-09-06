@@ -5,7 +5,7 @@
         <description><![CDATA[ijon at c-base]]></description>
         <link>https://thegrid.ai/ijon-at-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Sep 2015 11:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2015 11:29:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ijon-at-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Building an Ingress Table with Flowhub]]></title>
@@ -20,6 +20,13 @@
             <link>https://thegrid.ai/ijon-at-c-base/73f581e3-8a72-452d-8478-2b490ac18d51/index.html</link>
             <guid isPermaLink="false">73f581e3-8a72-452d-8478-2b490ac18d51</guid>
             <pubDate>Sat, 05 Sep 2015 09:08:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spacesuits]]></title>
+            <description><![CDATA[<article><h1>Spacesuits</h1><p>Where the crashed spacestation stores Spacesuits</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f8f1bfd-6ccb-4156-820c-16c1efa212a0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ijon-at-c-base/4be9c8fb-3c96-47b5-954a-8b0ff3005e18/index.html</link>
+            <guid isPermaLink="false">4be9c8fb-3c96-47b5-954a-8b0ff3005e18</guid>
+            <pubDate>Sun, 06 Sep 2015 11:28:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[c-base nipple jewelry]]></title>
@@ -68,13 +75,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1d3cd2c-b5c4-4ab6-b34b-b3266038ee41.jpg">]]></description>
             <link>https://thegrid.ai/ijon-at-c-base/47e0e726-de25-4743-9be8-2c5bcebb793b/index.html</link>
             <guid isPermaLink="false">47e0e726-de25-4743-9be8-2c5bcebb793b</guid>
-            <pubDate>Sat, 05 Sep 2015 09:08:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd454ba7-63a7-4ffa-bc1b-461705ba226d.jpg">]]></description>
-            <link>https://thegrid.ai/ijon-at-c-base/47ffa19a-8e4e-4025-b1c5-fb87c0b751ef/index.html</link>
-            <guid isPermaLink="false">47ffa19a-8e4e-4025-b1c5-fb87c0b751ef</guid>
             <pubDate>Sat, 05 Sep 2015 09:08:10 GMT</pubDate>
         </item>
     </channel>
