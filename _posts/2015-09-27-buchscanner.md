@@ -4,7 +4,7 @@ starred: false
 keywords: []
 description: 'Projektdokumentation des Buchscanners, den ich 2011 gebaut habe'
 title: Buchscanner
-dateModified: '2015-09-27T22:13:47.332Z'
+dateModified: '2015-09-27T22:14:06.878Z'
 tags:
   - ''
 authors: []
@@ -13,7 +13,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-datePublished: '2015-09-27T22:14:06.878Z'
+datePublished: '2015-09-27T22:26:34.745Z'
 sourcePath: _posts/2015-09-27-buchscanner.md
 published: true
 url: buchscanner/index.html
