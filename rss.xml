@@ -5,7 +5,7 @@
         <description><![CDATA[ijon at c-base]]></description>
         <link>https://thegrid.ai/ijon-at-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Sep 2015 22:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2015 22:14:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ijon-at-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -13,6 +13,13 @@
             <link>https://thegrid.ai/ijon-at-c-base/73f581e3-8a72-452d-8478-2b490ac18d51/index.html</link>
             <guid isPermaLink="false">73f581e3-8a72-452d-8478-2b490ac18d51</guid>
             <pubDate>Sat, 05 Sep 2015 09:08:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hackerfleet]]></title>
+            <description><![CDATA[<article><h1>Hackerfleet</h1><p>We are creating opensource Software for Ships. Navigation, Cooperation, Shipmanagement and Crewmanagement right at your fingertips. Bring your own device on Board!</p></article>]]></description>
+            <link>http://thegrid.ai/hackerfleet/</link>
+            <guid isPermaLink="false">9317f863-ff49-43d6-8013-6c5d2f6c8388</guid>
+            <pubDate>Sun, 27 Sep 2015 22:14:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Switchpanel</h1><p>One of the myriads of Switchpanels that are controlling our spacestation</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/460a49ee-2e1d-4ff9-bbb2-c24b905c307c.jpg"></article>]]></description>
             <link>https://thegrid.ai/ijon-at-c-base/63f1e813-54bc-4c20-9d41-347e818ef9b7/index.html</link>
             <guid isPermaLink="false">63f1e813-54bc-4c20-9d41-347e818ef9b7</guid>
-            <pubDate>Sun, 06 Sep 2015 11:28:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Symbiont]]></title>
-            <description><![CDATA[<article><h1>The Symbiont</h1><p>The only survivor of the crash of our spacestation. He happily converts human waste into electricity in a cold fusion</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18840734-d051-4298-883f-a8cd7afef954.jpg"></article>]]></description>
-            <link>https://thegrid.ai/ijon-at-c-base/e4543c9f-f149-4650-9a2f-042d0ce67a28/index.html</link>
-            <guid isPermaLink="false">e4543c9f-f149-4650-9a2f-042d0ce67a28</guid>
             <pubDate>Sun, 06 Sep 2015 11:28:50 GMT</pubDate>
         </item>
     </channel>
