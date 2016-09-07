@@ -1,5 +1,4 @@
 name: ijon at c-base
-style: the-composer
 favicon: null
 layout_spectrum: 0.48104
 typography_spectrum: 0.36034
@@ -26,7 +25,5 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.25
-purpose:
-  - name: awareness
-    item: null
-    url: null
+purpose: []
+github: true
